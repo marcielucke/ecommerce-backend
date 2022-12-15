@@ -20,7 +20,6 @@ This is a mysql database and application for the backend of an e-commerce compan
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Tests] (#tests)
 - [Contact!](#Contact)
 
 ## Installation
